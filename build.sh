@@ -1,1 +1,0 @@
-mono tools/FAKE/tools/FAKE.exe --fsiargs -d:MONO build.fsx

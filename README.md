@@ -2,6 +2,8 @@
 
 A collection of useful extension methods that I use.
 
+[![Build status](https://ci.appveyor.com/api/projects/status/eh3sqku5ur3yn5u2?svg=true)](https://ci.appveyor.com/project/corinblaikie/extensions)
+
 # Examples
 
 ## TimeSpan Extensions
